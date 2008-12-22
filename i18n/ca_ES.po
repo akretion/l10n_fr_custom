@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.0_rc2\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2008-12-22 17:58:36+0000\n"
-"PO-Revision-Date: 2008-12-22 17:58:36+0000\n"
+"POT-Creation-Date: 2008-12-22 17:50:51+0000\n"
+"PO-Revision-Date: 2008-12-22 17:50:51+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr ""
+msgstr "Patrimoni"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_immobilisations
@@ -38,12 +38,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr "Ativo"
+msgstr "Actiu"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr ""
+msgstr "Ingrés"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_dettes
@@ -88,7 +88,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr ""
+msgstr "Caixa"
 
 #. module: l10n_fr
 #: help:account.chart.report,init,fiscalyear:0
@@ -118,12 +118,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr ""
+msgstr "Despesa"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 #. module: l10n_fr
 #: model:ir.actions.todo,note:l10n_fr.config_call_account_template

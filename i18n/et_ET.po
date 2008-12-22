@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.0_rc2\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2008-12-22 17:58:36+0000\n"
-"PO-Revision-Date: 2008-12-22 17:58:36+0000\n"
+"POT-Creation-Date: 2008-12-22 17:54:38+0000\n"
+"PO-Revision-Date: 2008-12-22 17:54:38+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -38,12 +38,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr "Ativo"
+msgstr "Vara"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr ""
+msgstr "Tulu"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_dettes
@@ -123,7 +123,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr ""
+msgstr "Vaade"
 
 #. module: l10n_fr
 #: model:ir.actions.todo,note:l10n_fr.config_call_account_template
