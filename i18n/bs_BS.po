@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.0_rc3\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2009-01-03 02:11:07+0000\n"
-"PO-Revision-Date: 2009-01-03 02:11:07+0000\n"
+"POT-Creation-Date: 2009-01-03 02:17:41+0000\n"
+"PO-Revision-Date: 2009-01-03 02:17:41+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. module: l10n_fr
 #: constraint:ir.model:0
 msgid "The Object name must start with x_ and not contain any special character !"
-msgstr "O nome do objecto deve começar com x_ e não pode conter um caracter especial!"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.report,code:0
@@ -55,12 +55,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr "Activo"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr "Receita"
+msgstr ""
 
 #. module: l10n_fr
 #: wizard_button:l10n.fr.bilan.report,init,report:0
@@ -98,7 +98,7 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_field:account.chart.report,init,company_id:0
 msgid "Company"
-msgstr "Empresa"
+msgstr ""
 
 #. module: l10n_fr
 #: model:ir.actions.wizard,name:l10n_fr.wizard_l10n_fr_bilan_report
@@ -139,7 +139,7 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_field:account.chart.report,init,target_move:0
 msgid "Target Moves"
-msgstr "Movimentos do alvo"
+msgstr ""
 
 #. module: l10n_fr
 #: model:ir.ui.menu,name:l10n_fr.menu_synthesis
@@ -154,7 +154,7 @@ msgstr ""
 #. module: l10n_fr
 #: constraint:ir.ui.view:0
 msgid "Invalid XML for View Architecture!"
-msgstr "XML inválido para a arquitectura de vista"
+msgstr "Neodgovarajući XML za arhitekturu prikaza!"
 
 #. module: l10n_fr
 #: field:l10n.fr.line,name:0
@@ -175,7 +175,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr "Dinheiro"
+msgstr ""
 
 #. module: l10n_fr
 #: help:account.chart.report,init,fiscalyear:0
@@ -196,7 +196,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr "Situação liquida"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_immobilisations
@@ -216,7 +216,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr "Despesa"
+msgstr ""
 
 #. module: l10n_fr
 #: wizard_view:l10n.fr.cdr.report,init:0
@@ -226,7 +226,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr "Ecrã"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_stock
@@ -236,7 +236,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:ir.ui.menu,name:l10n_fr.menu_synthesis_config
 msgid "Configuration"
-msgstr "Configuração"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
@@ -247,21 +247,21 @@ msgstr ""
 #: model:ir.actions.wizard,name:l10n_fr.wizard_chart_report
 #: model:ir.ui.menu,name:l10n_fr.menu_fr_chart_report
 msgid "Account Report"
-msgstr "Relatório de contas"
+msgstr ""
 
 #. module: l10n_fr
 #: wizard_field:account.chart.report,init,fiscalyear:0
 #: wizard_field:l10n.fr.bilan.report,init,fiscalyear:0
 #: wizard_field:l10n.fr.cdr.report,init,fiscalyear:0
 msgid "Fiscal year"
-msgstr "Ano fiscal"
+msgstr ""
 
 #. module: l10n_fr
 #: wizard_button:account.chart.report,init,end:0
 #: wizard_button:l10n.fr.bilan.report,init,end:0
 #: wizard_button:l10n.fr.cdr.report,init,end:0
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cloture
