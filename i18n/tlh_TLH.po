@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.0_rc3\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2009-01-19 19:37:44+0000\n"
-"PO-Revision-Date: 2009-01-19 19:37:44+0000\n"
+"POT-Creation-Date: 2009-01-19 19:45:51+0000\n"
+"PO-Revision-Date: 2009-01-19 19:45:51+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. module: l10n_fr
 #: constraint:ir.model:0
 msgid "The Object name must start with x_ and not contain any special character !"
-msgstr "Nazwa obiektu musi zaczynać się od x_ oraz nie może zawierać znaków specjalnych !"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
@@ -44,7 +44,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr "Własność"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -124,7 +124,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:ir.ui.menu,name:l10n_fr.menu_synthesis_config
 msgid "Configuration"
-msgstr "Ustawienia"
+msgstr ""
 
 #. module: l10n_fr
 #: model:ir.model,name:l10n_fr.model_l10n_fr_line
@@ -155,7 +155,7 @@ msgstr ""
 #. module: l10n_fr
 #: constraint:ir.ui.view:0
 msgid "Invalid XML for View Architecture!"
-msgstr "XML niewłaściwy dla tej architektury wyświetlania!"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_commitment
