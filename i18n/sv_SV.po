@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.0\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2009-02-06 15:10:37+0000\n"
-"PO-Revision-Date: 2009-02-06 15:10:37+0000\n"
+"POT-Creation-Date: 2009-02-06 15:19:09+0000\n"
+"PO-Revision-Date: 2009-02-06 15:19:09+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -65,12 +65,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr "Ativo"
+msgstr "Tillgång"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr "Receita"
+msgstr "Inkomst"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -221,7 +221,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
 msgid "Tax"
-msgstr ""
+msgstr "Skatt"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -434,7 +434,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr "Despesa"
+msgstr "Utgift"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -783,7 +783,7 @@ msgstr ""
 #. module: l10n_fr
 #: constraint:ir.model:0
 msgid "The Object name must start with x_ and not contain any special character !"
-msgstr "O nome do objeto precisa iniciar com x_ e não conter nenhum caracter especial!"
+msgstr "Objektnamnet måste börja med x_ och får inte innehålla några specialtecken!"
 
 #. module: l10n_fr
 #: field:l10n.fr.line,definition:0
@@ -834,7 +834,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr "Patrimônio Líquido"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -932,7 +932,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr ""
+msgstr "Kontant"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -967,7 +967,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr "Visualizar"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
