@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OpenERP Server 5.0.0\n"
+"Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
 "POT-Creation-Date: 2009-08-28 16:01+0000\n"
-"PO-Revision-Date: 2009-04-10 09:43+0000\n"
+"PO-Revision-Date: 2009-01-30 13:18+0000\n"
 "Last-Translator: Fabien (Open ERP) <fp@tinyerp.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -72,12 +72,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr ""
+msgstr "Aktiva"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr ""
+msgstr "Erlöse"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -228,7 +228,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
 msgid "Tax"
-msgstr "Belasting"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -441,7 +441,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr ""
+msgstr "Aufwand"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -797,7 +797,8 @@ msgstr ""
 msgid ""
 "The Object name must start with x_ and not contain any special character !"
 msgstr ""
-"De objectnaam moet beginnen met x_ en mag geen speciale karakters bevatten !"
+"Der Objekt Name muss mit einem x_ starten und darf keine Sonderzeichen "
+"beinhalten"
 
 #. module: l10n_fr
 #: field:l10n.fr.line,definition:0
@@ -848,7 +849,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr ""
+msgstr "Eigenkapital"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -946,7 +947,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr ""
+msgstr "Kasse/Bank"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -981,7 +982,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr ""
+msgstr "Ansicht"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0

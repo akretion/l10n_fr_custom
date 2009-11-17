@@ -4,11 +4,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OpenERP Server 5.0.0\n"
+"Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
 "POT-Creation-Date: 2009-08-28 16:01+0000\n"
-"PO-Revision-Date: 2009-04-10 09:43+0000\n"
-"Last-Translator: Fabien (Open ERP) <fp@tinyerp.com>\n"
+"PO-Revision-Date: 2009-10-30 12:01+0000\n"
+"Last-Translator: Simon Vidmar <Unknown>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,6 +47,13 @@ msgid ""
 "Management/Configuration/Financial Accounting/Financial Accounts/Generate "
 "Chart of Accounts from a Chart Template."
 msgstr ""
+"Ustvari kontni načrt iz predloge kontnega načrta. Vprašani boste za ime "
+"podjetja, predlogo kontnega načrta, število znakov za oznako kotnov ter "
+"bančni račun, valuto za dnevnike. Narejena je samo kopija predloge kontnega "
+"načrta.\n"
+"\tTo je isti čarovnik, kot se ga požene iz Finančno "
+"uporavljanje/Nastavitve/Finančno računovodstvo/Ustvari kontni načrt iz "
+"predloge kontnega načrta"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -72,12 +79,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr ""
+msgstr "Delovno sredstvo"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr ""
+msgstr "Prihodki"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -92,7 +99,7 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_view:l10n.fr.bilan.report,init:0
 msgid "Select year"
-msgstr ""
+msgstr "Izberi leto"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -113,7 +120,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_payable
 msgid "Payable"
-msgstr ""
+msgstr "Obveznosti"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -193,7 +200,7 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -213,7 +220,7 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_view:l10n.fr.cdr.report,init:0
 msgid "Select period"
-msgstr ""
+msgstr "Izberi obdobje"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -228,7 +235,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
 msgid "Tax"
-msgstr "Belasting"
+msgstr "Davek"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -290,7 +297,7 @@ msgstr ""
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_1
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_5
 msgid "France"
-msgstr ""
+msgstr "Francija"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -306,7 +313,7 @@ msgstr ""
 #: wizard_button:l10n.fr.bilan.report,init,report:0
 #: wizard_button:l10n.fr.cdr.report,init,report:0
 msgid "Print"
-msgstr ""
+msgstr "Natisni"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -316,7 +323,7 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Net"
-msgstr ""
+msgstr "Neto"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -336,7 +343,7 @@ msgstr ""
 #. module: l10n_fr
 #: constraint:account.account.template:0
 msgid "Error ! You can not create recursive account templates."
-msgstr ""
+msgstr "Napaka! Ne morete oblikovati rekurzivnih predlog kontov."
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_provision
@@ -378,12 +385,12 @@ msgstr ""
 #. module: l10n_fr
 #: field:l10n.fr.line,report_id:0
 msgid "Report"
-msgstr ""
+msgstr "Poročilo"
 
 #. module: l10n_fr
 #: constraint:account.tax.code.template:0
 msgid "Error ! You can not create recursive Tax Codes."
-msgstr ""
+msgstr "Napaka! Ne morete oblikovati rekurzivnih davčnih oznak."
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_commitment
@@ -441,7 +448,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr ""
+msgstr "Strošek"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -797,7 +804,7 @@ msgstr ""
 msgid ""
 "The Object name must start with x_ and not contain any special character !"
 msgstr ""
-"De objectnaam moet beginnen met x_ en mag geen speciale karakters bevatten !"
+"Naziv objekta se mora začeti z 'x_' in ne sme vsebovati posebnih znakov."
 
 #. module: l10n_fr
 #: field:l10n.fr.line,definition:0
@@ -848,7 +855,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr ""
+msgstr "Stanje bilance"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -946,7 +953,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr ""
+msgstr "Gotovina"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -981,7 +988,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr ""
+msgstr "Pogled:"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0

@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OpenERP Server 5.0.0\n"
+"Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
 "POT-Creation-Date: 2009-08-28 16:01+0000\n"
-"PO-Revision-Date: 2009-04-10 09:43+0000\n"
+"PO-Revision-Date: 2009-01-30 13:18+0000\n"
 "Last-Translator: Fabien (Open ERP) <fp@tinyerp.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -72,12 +72,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr ""
+msgstr "Activa"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr ""
+msgstr "Inkomen"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -441,7 +441,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr ""
+msgstr "Uitgave"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -848,7 +848,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr ""
+msgstr "Vermogen"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -946,7 +946,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr ""
+msgstr "Contanten"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -981,7 +981,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr ""
+msgstr "Aanzicht"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0

@@ -4,10 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OpenERP Server 5.0.0\n"
+"Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
 "POT-Creation-Date: 2009-08-28 16:01+0000\n"
-"PO-Revision-Date: 2009-04-10 09:43+0000\n"
+"PO-Revision-Date: 2009-11-09 17:54+0000\n"
 "Last-Translator: Fabien (Open ERP) <fp@tinyerp.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19,17 +19,17 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Redevances de crédit-bail immobilier"
-msgstr ""
+msgstr "Compensi di leasing immobiliare"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "période du"
-msgstr ""
+msgstr "periodo da"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Autres réserves"
-msgstr ""
+msgstr "Altre riserve"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -67,22 +67,22 @@ msgstr ""
 #: rml:l10n.fr.bilan:0
 #: rml:l10n.fr.cdr:0
 msgid "TOTAL III"
-msgstr ""
+msgstr "TOTALE !!!"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr ""
+msgstr "Attività"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr ""
+msgstr "Entrata"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Charges sociales"
-msgstr ""
+msgstr "Oneri sociali"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -92,38 +92,38 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_view:l10n.fr.bilan.report,init:0
 msgid "Select year"
-msgstr ""
+msgstr "Seleziona anno"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Différences négatives de change"
-msgstr ""
+msgstr "Differenze negative di cambio"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Autres charges"
-msgstr ""
+msgstr "Altri oneri"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 #: rml:l10n.fr.cdr:0
 msgid "Tenue de Compte :"
-msgstr ""
+msgstr "Tenuta di conto"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_payable
 msgid "Payable"
-msgstr ""
+msgstr "Debiti"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "( IV )"
-msgstr ""
+msgstr "IV"
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_4
 msgid "Hors Euro"
-msgstr ""
+msgstr "Fuori Euro"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -143,22 +143,22 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "De participation"
-msgstr ""
+msgstr "Di partecipazione"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "TOTAL IV"
-msgstr ""
+msgstr "TOTALE IV"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "PROVISIONS"
-msgstr ""
+msgstr "MISURE"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -168,82 +168,82 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Autres dettes"
-msgstr ""
+msgstr "Altri debiti"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "articipations"
-msgstr ""
+msgstr "anticipazioni"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "atières premières et autres approvisionnements"
-msgstr ""
+msgstr "materie prime ed altri approvvigionamenti"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_stocks
 msgid "Actif circulant"
-msgstr ""
+msgstr "Attivo circolante"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Dettes fournisseurs et comptes rattachés"
-msgstr ""
+msgstr "Debiti fornitori e conti collegati"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Provisions pour charges"
-msgstr ""
+msgstr "Accantonamenti per carichi"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_dettes
 msgid "Dettes long terme"
-msgstr ""
+msgstr "Debiti a lungo termine"
 
 #. module: l10n_fr
 #: wizard_view:l10n.fr.cdr.report,init:0
 msgid "Select period"
-msgstr ""
+msgstr "Seleziona Periodo"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "RÉSERVES"
-msgstr ""
+msgstr "RISERVE"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "TOTAL GÉNÉRAL (I + II + III + IV)"
-msgstr ""
+msgstr "TOTALE GENERALE (I + II + III + IV)"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
 msgid "Tax"
-msgstr "Belasting"
+msgstr "Imposte"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Dotations aux amortissements, aux dépréciations et aux provisions"
-msgstr ""
+msgstr "Dotazioni agli ammortamenti, ai deprezzamenti ed altre misure"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Achats de matières premières et autres approvisionnements"
-msgstr ""
+msgstr "Acquisti di materie prime ed altri approvvigionamenti"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Avances et acomptes reçus sur commandes en cours"
-msgstr ""
+msgstr "Anticipi e rate ricevuti su comandi in corso sviluppare"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -441,7 +441,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr ""
+msgstr "Uscita"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -737,7 +737,7 @@ msgstr ""
 #: wizard_field:l10n.fr.bilan.report,init,fiscalyear:0
 #: wizard_field:l10n.fr.cdr.report,init,fiscalyear:0
 msgid "Fiscal year"
-msgstr ""
+msgstr "Anno Fiscale"
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_3
@@ -758,7 +758,7 @@ msgstr ""
 #: wizard_button:l10n.fr.bilan.report,init,end:0
 #: wizard_button:l10n.fr.cdr.report,init,end:0
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -779,7 +779,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_receivable
 msgid "Receivable"
-msgstr ""
+msgstr "Credito"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -797,7 +797,8 @@ msgstr ""
 msgid ""
 "The Object name must start with x_ and not contain any special character !"
 msgstr ""
-"De objectnaam moet beginnen met x_ en mag geen speciale karakters bevatten !"
+"Il nome dell'oggetto deve iniziare per x_ e non deve contenere caratteri "
+"speciali!"
 
 #. module: l10n_fr
 #: field:l10n.fr.line,definition:0
@@ -848,7 +849,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr ""
+msgstr "Capitale"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -946,7 +947,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr ""
+msgstr "Contante"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -981,7 +982,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -1031,7 +1032,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cloture
 msgid "Cloture"
-msgstr ""
+msgstr "Chiusura"
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
