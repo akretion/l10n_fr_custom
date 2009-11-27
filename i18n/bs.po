@@ -6,29 +6,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2009-08-28 15:44:13+0000\n"
-"PO-Revision-Date: 2009-08-28 15:44:13+0000\n"
+"POT-Creation-Date: 2009-08-28 16:01+0000\n"
+"PO-Revision-Date: 2009-02-03 06:24+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-11-17 04:57+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Redevances de crédit-bail immobilier"
-msgstr "Compensi di leasing immobiliare"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "période du"
-msgstr "periodo da"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Autres réserves"
-msgstr "Altre riserve"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -37,8 +38,14 @@ msgstr ""
 
 #. module: l10n_fr
 #: model:ir.actions.todo,note:l10n_fr.config_call_account_template_fr_pcg
-msgid "Generate Chart of Accounts from a Chart Template. You will be asked to pass the name of the company, the chart template to follow, the no. of digits to generate the code for your accounts and Bank account, currency to create Journals. Thus,the pure copy of chart Template is generated.\n"
-"	This is the same wizard that runs from Financial Management/Configuration/Financial Accounting/Financial Accounts/Generate Chart of Accounts from a Chart Template."
+msgid ""
+"Generate Chart of Accounts from a Chart Template. You will be asked to pass "
+"the name of the company, the chart template to follow, the no. of digits to "
+"generate the code for your accounts and Bank account, currency to create "
+"Journals. Thus,the pure copy of chart Template is generated.\n"
+"\tThis is the same wizard that runs from Financial "
+"Management/Configuration/Financial Accounting/Financial Accounts/Generate "
+"Chart of Accounts from a Chart Template."
 msgstr ""
 
 #. module: l10n_fr
@@ -60,22 +67,22 @@ msgstr ""
 #: rml:l10n.fr.bilan:0
 #: rml:l10n.fr.cdr:0
 msgid "TOTAL III"
-msgstr "TOTALE !!!"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr "Attività"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr "Entrata"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Charges sociales"
-msgstr "Oneri sociali"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -85,38 +92,38 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_view:l10n.fr.bilan.report,init:0
 msgid "Select year"
-msgstr "Seleziona anno"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Différences négatives de change"
-msgstr "Differenze negative di cambio"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Autres charges"
-msgstr "Altri oneri"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 #: rml:l10n.fr.cdr:0
 msgid "Tenue de Compte :"
-msgstr "Tenuta di conto"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_payable
 msgid "Payable"
-msgstr "Debiti"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "( IV )"
-msgstr "IV"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_4
 msgid "Hors Euro"
-msgstr "Fuori Euro"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -136,22 +143,22 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "De participation"
-msgstr "Di partecipazione"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "TOTAL IV"
-msgstr "TOTALE IV"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "D"
-msgstr "D"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "PROVISIONS"
-msgstr "MISURE"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -161,82 +168,82 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Autres dettes"
-msgstr "Altri debiti"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "articipations"
-msgstr "anticipazioni"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "atières premières et autres approvisionnements"
-msgstr "materie prime ed altri approvvigionamenti"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "P"
-msgstr "P"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_stocks
 msgid "Actif circulant"
-msgstr "Attivo circolante"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "T"
-msgstr "T"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Dettes fournisseurs et comptes rattachés"
-msgstr "Debiti fornitori e conti collegati"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Provisions pour charges"
-msgstr "Accantonamenti per carichi"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_dettes
 msgid "Dettes long terme"
-msgstr "Debiti a lungo termine"
+msgstr ""
 
 #. module: l10n_fr
 #: wizard_view:l10n.fr.cdr.report,init:0
 msgid "Select period"
-msgstr "Seleziona Periodo"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "RÉSERVES"
-msgstr "RISERVE"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "TOTAL GÉNÉRAL (I + II + III + IV)"
-msgstr "TOTALE GENERALE (I + II + III + IV)"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
 msgid "Tax"
-msgstr "Imposte"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Dotations aux amortissements, aux dépréciations et aux provisions"
-msgstr "Dotazioni agli ammortamenti, ai deprezzamenti ed altre misure"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "Achats de matières premières et autres approvisionnements"
-msgstr "Acquisti di materie prime ed altri approvvigionamenti"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Avances et acomptes reçus sur commandes en cours"
-msgstr "Anticipi e rate ricevuti su comandi in corso sviluppare"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -410,10 +417,10 @@ msgstr ""
 
 #. module: l10n_fr
 #: model:ir.module.module,description:l10n_fr.module_meta_information
-msgid "This is the module to manage the accounting chart for France in Open ERP.\n"
+msgid ""
+"This is the module to manage the accounting chart for France in Open ERP.\n"
 "\n"
 "Credits: Sistheo Zeekom CrysaLEAD\n"
-""
 msgstr ""
 
 #. module: l10n_fr
@@ -434,7 +441,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr "Uscita"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -473,7 +480,9 @@ msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
-msgid "Reprises sur provisions, dépréciations (et amortissements) et transferts de charges"
+msgid ""
+"Reprises sur provisions, dépréciations (et amortissements) et transferts de "
+"charges"
 msgstr ""
 
 #. module: l10n_fr
@@ -608,7 +617,10 @@ msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
-msgid "Attention, pour que votre bilan soit correct, vous devez solder les comptes 120 ou 129 (Résultat de l'exercice précédant) dans un compte de report à nouveau (compte 110 ou 119) ou dans le compte 108. Renseignez"
+msgid ""
+"Attention, pour que votre bilan soit correct, vous devez solder les comptes "
+"120 ou 129 (Résultat de l'exercice précédant) dans un compte de report à "
+"nouveau (compte 110 ou 119) ou dans le compte 108. Renseignez"
 msgstr ""
 
 #. module: l10n_fr
@@ -725,7 +737,7 @@ msgstr ""
 #: wizard_field:l10n.fr.bilan.report,init,fiscalyear:0
 #: wizard_field:l10n.fr.cdr.report,init,fiscalyear:0
 msgid "Fiscal year"
-msgstr "Anno Fiscale"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_3
@@ -746,7 +758,7 @@ msgstr ""
 #: wizard_button:l10n.fr.bilan.report,init,end:0
 #: wizard_button:l10n.fr.cdr.report,init,end:0
 msgid "Cancel"
-msgstr "Annulla"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -767,7 +779,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_receivable
 msgid "Receivable"
-msgstr "Credito"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -782,8 +794,9 @@ msgstr ""
 
 #. module: l10n_fr
 #: constraint:ir.model:0
-msgid "The Object name must start with x_ and not contain any special character !"
-msgstr "Il nome dell'oggetto deve iniziare per x_ e non deve contenere caratteri speciali!"
+msgid ""
+"The Object name must start with x_ and not contain any special character !"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.line,definition:0
@@ -834,7 +847,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr "Capitale"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -932,7 +945,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr "Contante"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -967,7 +980,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr "Vista"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -1017,7 +1030,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cloture
 msgid "Cloture"
-msgstr "Chiusura"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -1033,4 +1046,3 @@ msgstr ""
 #: rml:l10n.fr.bilan:0
 msgid "Dettes fiscales et sociales"
 msgstr ""
-

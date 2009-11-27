@@ -6,14 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2009-08-28 15:36:36+0000\n"
-"PO-Revision-Date: 2009-08-28 15:36:36+0000\n"
+"POT-Creation-Date: 2009-08-28 16:01+0000\n"
+"PO-Revision-Date: 2009-02-03 06:24+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-11-17 04:57+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -37,8 +38,14 @@ msgstr ""
 
 #. module: l10n_fr
 #: model:ir.actions.todo,note:l10n_fr.config_call_account_template_fr_pcg
-msgid "Generate Chart of Accounts from a Chart Template. You will be asked to pass the name of the company, the chart template to follow, the no. of digits to generate the code for your accounts and Bank account, currency to create Journals. Thus,the pure copy of chart Template is generated.\n"
-"	This is the same wizard that runs from Financial Management/Configuration/Financial Accounting/Financial Accounts/Generate Chart of Accounts from a Chart Template."
+msgid ""
+"Generate Chart of Accounts from a Chart Template. You will be asked to pass "
+"the name of the company, the chart template to follow, the no. of digits to "
+"generate the code for your accounts and Bank account, currency to create "
+"Journals. Thus,the pure copy of chart Template is generated.\n"
+"\tThis is the same wizard that runs from Financial "
+"Management/Configuration/Financial Accounting/Financial Accounts/Generate "
+"Chart of Accounts from a Chart Template."
 msgstr ""
 
 #. module: l10n_fr
@@ -65,12 +72,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
 msgid "Asset"
-msgstr "Vara"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_income
 msgid "Income"
-msgstr "Tulu"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -85,7 +92,7 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_view:l10n.fr.bilan.report,init:0
 msgid "Select year"
-msgstr "Vali aasta"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -106,12 +113,12 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_payable
 msgid "Payable"
-msgstr "Võlad"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "( IV )"
-msgstr "( IV )"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_4
@@ -131,7 +138,7 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "+ IV+ V+ VI"
-msgstr "+ IV+ V+ VI"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -141,7 +148,7 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "TOTAL IV"
-msgstr "KOKKU IV"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -206,7 +213,7 @@ msgstr ""
 #. module: l10n_fr
 #: wizard_view:l10n.fr.cdr.report,init:0
 msgid "Select period"
-msgstr "Vali periood"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -221,7 +228,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
 msgid "Tax"
-msgstr "Maks"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -252,7 +259,7 @@ msgstr ""
 #: rml:l10n.fr.bilan:0
 #: rml:l10n.fr.cdr:0
 msgid "TOTAL I"
-msgstr "KOKKU I"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -283,7 +290,7 @@ msgstr ""
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_1
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_5
 msgid "France"
-msgstr "Prantsusmaa"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -299,7 +306,7 @@ msgstr ""
 #: wizard_button:l10n.fr.bilan.report,init,report:0
 #: wizard_button:l10n.fr.cdr.report,init,report:0
 msgid "Print"
-msgstr "Trüki"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -309,12 +316,12 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "Net"
-msgstr "Neto"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "TOTAL I ( A + B )"
-msgstr "KOKKU I ( A + B )"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -324,12 +331,12 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
 msgid "( VI )"
-msgstr "( VI )"
+msgstr ""
 
 #. module: l10n_fr
 #: constraint:account.account.template:0
 msgid "Error ! You can not create recursive account templates."
-msgstr "Viga ! Sa ei saa luua rekrusiivseid kontomalle."
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_provision
@@ -371,12 +378,12 @@ msgstr ""
 #. module: l10n_fr
 #: field:l10n.fr.line,report_id:0
 msgid "Report"
-msgstr "Aruanne"
+msgstr ""
 
 #. module: l10n_fr
 #: constraint:account.tax.code.template:0
 msgid "Error ! You can not create recursive Tax Codes."
-msgstr "Viga ! sa ei saa luua rekrusiivseid maksukoode."
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_commitment
@@ -410,10 +417,10 @@ msgstr ""
 
 #. module: l10n_fr
 #: model:ir.module.module,description:l10n_fr.module_meta_information
-msgid "This is the module to manage the accounting chart for France in Open ERP.\n"
+msgid ""
+"This is the module to manage the accounting chart for France in Open ERP.\n"
 "\n"
 "Credits: Sistheo Zeekom CrysaLEAD\n"
-""
 msgstr ""
 
 #. module: l10n_fr
@@ -434,7 +441,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
 msgid "Expense"
-msgstr "Kulu"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -473,7 +480,9 @@ msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
-msgid "Reprises sur provisions, dépréciations (et amortissements) et transferts de charges"
+msgid ""
+"Reprises sur provisions, dépréciations (et amortissements) et transferts de "
+"charges"
 msgstr ""
 
 #. module: l10n_fr
@@ -544,7 +553,7 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "TOTAL II"
-msgstr "KOKKU II"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -604,11 +613,14 @@ msgstr ""
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
 msgid "I + II + III + IV + V"
-msgstr "I + II + III + IV + V"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
-msgid "Attention, pour que votre bilan soit correct, vous devez solder les comptes 120 ou 129 (Résultat de l'exercice précédant) dans un compte de report à nouveau (compte 110 ou 119) ou dans le compte 108. Renseignez"
+msgid ""
+"Attention, pour que votre bilan soit correct, vous devez solder les comptes "
+"120 ou 129 (Résultat de l'exercice précédant) dans un compte de report à "
+"nouveau (compte 110 ou 119) ou dans le compte 108. Renseignez"
 msgstr ""
 
 #. module: l10n_fr
@@ -767,7 +779,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_receivable
 msgid "Receivable"
-msgstr "Nõuded"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.bilan:0
@@ -782,8 +794,9 @@ msgstr ""
 
 #. module: l10n_fr
 #: constraint:ir.model:0
-msgid "The Object name must start with x_ and not contain any special character !"
-msgstr "Objekti nimi peab algama x_'ga ja ei tohi sisaldada ühtegi erisümbolit !"
+msgid ""
+"The Object name must start with x_ and not contain any special character !"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.line,definition:0
@@ -834,7 +847,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_equity
 msgid "Equity"
-msgstr "Omakapital"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -932,7 +945,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
 msgid "Cash"
-msgstr "Kassa"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
@@ -967,7 +980,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
 msgid "View"
-msgstr "Vaade"
+msgstr ""
 
 #. module: l10n_fr
 #: rml:l10n.fr.cdr:0
@@ -1033,4 +1046,3 @@ msgstr ""
 #: rml:l10n.fr.bilan:0
 msgid "Dettes fiscales et sociales"
 msgstr ""
-
