@@ -6,14 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
-"POT-Creation-Date: 2010-12-15 15:05+0000\n"
-"PO-Revision-Date: 2010-12-20 01:16+0000\n"
-"Last-Translator: Carlos-smile <Unknown>\n"
+"POT-Creation-Date: 2010-12-03 15:43+0000\n"
+"PO-Revision-Date: 2010-10-28 09:07+0000\n"
+"Last-Translator: Borja López Soilán <borjalopezsoilan@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2010-12-20 04:50+0000\n"
+"X-Launchpad-Export-Date: 2010-12-14 05:06+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #. module: l10n_fr
@@ -33,20 +33,17 @@ msgid ""
 "\n"
 "Credits: Sistheo Zeekom CrysaLEAD\n"
 msgstr ""
-"Este es el módulo para gestionar el plan contable francés en OpenERP.\n"
-"\n"
-"Créditos: Sistheo Zeekom CrysaLEAD\n"
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_immobilisations
 msgid "Immobilisations"
-msgstr "Inmobilizaciones"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_1
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_5
 msgid "France"
-msgstr "Francia"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_asset
@@ -62,17 +59,17 @@ msgstr "Patrimonio"
 #: view:account.bilan.report:0
 #: view:account.cdr.report:0
 msgid "Print"
-msgstr "Imprimir"
+msgstr ""
 
 #. module: l10n_fr
 #: model:ir.model,name:l10n_fr.model_l10n_fr_report
 msgid "Report for l10n_fr"
-msgstr "Informe para l10n_fr"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_2
 msgid "Zone Euro"
-msgstr "Zona Euro"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_expense
@@ -82,12 +79,12 @@ msgstr "Gasto"
 #. module: l10n_fr
 #: model:ir.model,name:l10n_fr.model_account_cdr_report
 msgid "Account CDR Report"
-msgstr "Informe cuenta CDR"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_provision
 msgid "Provisions"
-msgstr "Provisiones"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_payable
@@ -97,17 +94,17 @@ msgstr "A pagar"
 #. module: l10n_fr
 #: view:account.cdr.report:0
 msgid "Compte de resultant"
-msgstr "Cuenta de resultado"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.line,report_id:0
 msgid "Report"
-msgstr "Informe"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_4
 msgid "Hors Euro"
-msgstr "Fuera Europa"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_commitment
@@ -117,38 +114,38 @@ msgstr ""
 #. module: l10n_fr
 #: model:ir.model,name:l10n_fr.model_l10n_fr_line
 msgid "Report Lines for l10n_fr"
-msgstr "Líneas informe para l10n_fr"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_7
 msgid "TVA sur les encaissements"
-msgstr "IVA sobre cobros"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.line,definition:0
 msgid "Definition"
-msgstr "Definición"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.line,name:0
 #: field:l10n.fr.report,name:0
 msgid "Name"
-msgstr "Nombre"
+msgstr ""
 
 #. module: l10n_fr
 #: model:ir.actions.act_window,name:l10n_fr.action_account_cdr_report
 msgid "Compte de resultat Report"
-msgstr "Informe de cuenta de resultados"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_stock
 msgid "Stocks"
-msgstr "Stocks"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.report,line_ids:0
 msgid "Lines"
-msgstr "Líneas"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_cash
@@ -158,28 +155,28 @@ msgstr "Efectivo"
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_special
 msgid "Comptes spéciaux"
-msgstr "Cuentas especiales"
+msgstr ""
 
 #. module: l10n_fr
 #: sql_constraint:l10n.fr.report:0
 msgid "The code report must be unique !"
-msgstr "El código del informe debe ser único"
+msgstr ""
 
 #. module: l10n_fr
 #: field:account.bilan.report,fiscalyear_id:0
 #: field:account.cdr.report,fiscalyear_id:0
 msgid "Fiscal Year"
-msgstr "Ejercicio fiscal"
+msgstr ""
 
 #. module: l10n_fr
 #: field:l10n.fr.report,code:0
 msgid "Code"
-msgstr "Código"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_dettes
 msgid "Dettes long terme"
-msgstr "Deudas a largo plazo"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_view
@@ -189,28 +186,28 @@ msgstr "Vista"
 #. module: l10n_fr
 #: sql_constraint:l10n.fr.line:0
 msgid "The variable name must be unique !"
-msgstr "¡El nombre de la variable debe ser único!"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_stocks
 msgid "Actif circulant"
-msgstr "Activo circulante"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_6
 msgid "TVA sur le débits"
-msgstr "IVA sobre los débitos"
+msgstr ""
 
 #. module: l10n_fr
 #: view:account.bilan.report:0
 #: model:ir.actions.act_window,name:l10n_fr.action_account_bilan_report
 msgid "Bilan Report"
-msgstr "Informe balance"
+msgstr ""
 
 #. module: l10n_fr
 #: model:ir.module.module,shortdesc:l10n_fr.module_meta_information
 msgid "France - Plan Comptable Général"
-msgstr "Francia - Plan contable general"
+msgstr ""
 
 #. module: l10n_fr
 #: model:account.account.type,name:l10n_fr.account_type_tax
@@ -220,7 +217,7 @@ msgstr "Impuesto"
 #. module: l10n_fr
 #: model:account.fiscal.position.template,name:l10n_fr.fiscal_position_template_3
 msgid "DOM-TOM"
-msgstr "DOM-TOM"
+msgstr ""
 
 #. module: l10n_fr
 #: view:account.bilan.report:0
@@ -236,7 +233,7 @@ msgstr "Cierre"
 #. module: l10n_fr
 #: field:l10n.fr.line,code:0
 msgid "Variable Name"
-msgstr "Nombre variable"
+msgstr ""
 
 #~ msgid "Fiscal year"
 #~ msgstr "Año Fiscal"
