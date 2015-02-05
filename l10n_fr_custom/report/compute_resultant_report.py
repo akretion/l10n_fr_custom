@@ -90,9 +90,9 @@ class cdr(base_report.base_report):
 
 
 class wrapped_report_resultat(osv.AbstractModel):
-    _name = 'report.l10n_fr.report_l10nfrresultat'
+    _name = 'report.l10n_fr_custom.report_l10nfrresultat'
     _inherit = 'report.abstract_report'
-    _template = 'l10n_fr.report_l10nfrresultat'
+    _template = 'l10n_fr_custom.report_l10nfrresultat'
     _wrapped_report_class = cdr
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

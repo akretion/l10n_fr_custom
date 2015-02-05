@@ -133,9 +133,9 @@ class bilan(base_report.base_report):
 
 
 class wrapped_report_bilan(osv.AbstractModel):
-    _name = 'report.l10n_fr.report_l10nfrbilan'
+    _name = 'report.l10n_fr_custom.report_l10nfrbilan'
     _inherit = 'report.abstract_report'
-    _template = 'l10n_fr.report_l10nfrbilan'
+    _template = 'l10n_fr_custom.report_l10nfrbilan'
     _wrapped_report_class = bilan
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

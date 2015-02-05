@@ -6,8 +6,8 @@
             model="account.move.line" 
             string="Bilan"
             report_type="qweb-pdf"
-            name="l10n_fr.report_l10nfrbilan" 
-            file="l10n_fr.report_l10nfrbilan"
+            name="l10n_fr_custom.report_l10nfrbilan" 
+            file="l10n_fr_custom.report_l10nfrbilan"
             menu="False"
         />
         <report 
@@ -15,8 +15,8 @@
             model="account.move.line" 
             string="Compte de résultat"
             report_type="qweb-pdf"
-            name="l10n_fr.report_l10nfrresultat" 
-            file="l10n_fr.report_l10nfrresultat"
+            name="l10n_fr_custom.report_l10nfrresultat" 
+            file="l10n_fr_custom.report_l10nfrresultat"
             menu="False"
         />
     </data>

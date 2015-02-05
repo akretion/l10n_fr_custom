@@ -34,17 +34,17 @@ msgid "Lines"
 msgstr "Lignes"
 
 #. module: l10n_fr
-#: model:ir.model,name:l10n_fr.model_account_bilan_report
+#: model:ir.model,name:l10n_fr_custom.model_account_bilan_report
 msgid "Account Bilan Report"
 msgstr "Bilan"
 
 #. module: l10n_fr
-#: model:ir.model,name:l10n_fr.model_account_cdr_report
+#: model:ir.model,name:l10n_fr_custom.model_account_cdr_report
 msgid "Account CDR Report"
 msgstr "Rapport Compte CDR"
 
 #. module: l10n_fr
-#: model:account.fiscal.position.template,note:l10n_fr.fiscal_position_template_import_export
+#: model:account.fiscal.position.template,note:l10n_fr_custom.fiscal_position_template_import_export
 msgid "French VAT exemption according to articles 262 I of \"CGI\""
 msgstr "Exemption de TVA en France selon les articles 262"
 
@@ -59,7 +59,7 @@ msgid "Compte de resultat"
 msgstr "Compte de resultat"
 
 #. module: l10n_fr
-#: model:ir.model,name:l10n_fr.model_l10n_fr_line
+#: model:ir.model,name:l10n_fr_custom.model_l10n_fr_line
 msgid "Report Lines for l10n_fr"
 msgstr "Lignes de rapport pour l10n_fr"
 
@@ -80,12 +80,12 @@ msgid "Name"
 msgstr "Nom"
 
 #. module: l10n_fr
-#: model:ir.actions.act_window,name:l10n_fr.action_account_cdr_report
+#: model:ir.actions.act_window,name:l10n_fr_custom.action_account_cdr_report
 msgid "Compte de resultat Report"
 msgstr "Rapport Compte de résultat"
 
 #. module: l10n_fr
-#: model:account.fiscal.position.template,note:l10n_fr.fiscal_position_template_intraeub2b
+#: model:account.fiscal.position.template,note:l10n_fr_custom.fiscal_position_template_intraeub2b
 msgid ""
 "French VAT exemption according to articles 262 ter I (for products) and/or "
 "283-2 (for services) of \"CGI\""
@@ -94,7 +94,7 @@ msgstr ""
 "et/ou 283-2 (pour les services) du CGI"
 
 #. module: l10n_fr
-#: model:ir.model,name:l10n_fr.model_res_company
+#: model:ir.model,name:l10n_fr_custom.model_res_company
 msgid "Companies"
 msgstr "Sociétés"
 
@@ -110,7 +110,7 @@ msgid "Fiscal Year"
 msgstr "Exercice fiscal"
 
 #. module: l10n_fr
-#: model:ir.model,name:l10n_fr.model_l10n_fr_report
+#: model:ir.model,name:l10n_fr_custom.model_l10n_fr_report
 msgid "Report for l10n_fr"
 msgstr "Rapport pour l10n_fr"
 
@@ -131,7 +131,7 @@ msgstr "Code"
 
 #. module: l10n_fr
 #: view:account.bilan.report:0
-#: model:ir.actions.act_window,name:l10n_fr.action_account_bilan_report
+#: model:ir.actions.act_window,name:l10n_fr_custom.action_account_bilan_report
 msgid "Bilan Report"
 msgstr "Rapport de bilan"
 
