@@ -1,0 +1,2 @@
+"id","parent_id:id","tax_ids:id","code","name","type","user_type:id","note"
+"pcg_7074","fr_pcg_sale","tva_normale","7074","Marchandises à destination de l'espace","other","account.data_account_type_income",""

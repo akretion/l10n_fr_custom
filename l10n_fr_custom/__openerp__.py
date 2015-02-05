@@ -53,21 +53,13 @@ configuration of their taxes and fiscal positions manually.
 
 **Credits:** Sistheo, Zeekom, CrysaLEAD, Akretion and Camptocamp.
 """,
-    'depends': ['base_iban', 'account', 'account_chart', 'base_vat'],
+    'depends': ['l10n_fr'],
     'data': [
-        'views/report_l10nfrbilan.xml',
-        'views/report_l10nfrresultat.xml',
-        'l10n_fr_reports.xml',
-        'fr_report.xml',
         'plan_comptable_general.xml',
-        'l10n_fr_view.xml',
-        'l10n_fr_wizard.xml',
         'fr_pcg_taxes.xml',
         'fr_tax.xml',
         'fr_fiscal_templates.xml',
-        'security/ir.model.access.csv',
-        'wizard/fr_report_bilan_view.xml',
-        'wizard/fr_report_compute_resultant_view.xml',
+        'account.account.template.csv',
     ],
     'test': ['test/l10n_fr_report.yml'],
     'demo': [],
