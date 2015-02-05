@@ -26,7 +26,7 @@
 #
 ##############################################################################
 {
-    'name': 'France - Accounting',
+    'name': 'France Custom Chart of Account',
     'version': '1.1',
     'author': 'OpenERP SA',
     'website': 'http://www.openerp.com',
@@ -55,11 +55,12 @@ configuration of their taxes and fiscal positions manually.
 """,
     'depends': ['l10n_fr'],
     'data': [
-        'plan_comptable_general.xml',
-        'fr_pcg_taxes.xml',
-        'fr_tax.xml',
-        'fr_fiscal_templates.xml',
-        'account.account.template.csv',
+        'data_1/account.account.template.csv',
+        'data_1/account.tax.template.csv',
+        'data_1/fr_pcg_taxes.xml',
+        'data_2/account.account.template.csv',
+        'data_2/fr_pcg_taxes.xml',
+        'data_2/fr_fiscal_templates.xml',
     ],
     'test': ['test/l10n_fr_report.yml'],
     'demo': [],

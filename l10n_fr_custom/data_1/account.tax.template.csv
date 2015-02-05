@@ -1,0 +1,35 @@
+id,chart_template_id:id,name,description,amount,type,base_code_id:id,base_sign,ref_tax_code_id:id,ref_tax_sign,sequence,type_tax_use,account_collected_id:id,account_paid_id:id
+tva_normale,l10n_fr_pcg_chart_template,"TVA collectée (vente) 20,0%",20.0,0.2,Percent,tax_col_200_ht,1.0,tax_col_200,-1.0,1,Sale,pcg_445711,pcg_445711
+tva_intermediaire,l10n_fr_pcg_chart_template,"TVA collectée (vente) 10,0%",10.0,0.1,Percent,tax_col_100_ht,1.0,tax_col_100,-1.0,10,Sale,pcg_445712,pcg_445712
+tva_specifique,l10n_fr_pcg_chart_template,"TVA collectée (vente) 8,5%",8.5,0.085,Percent,tax_col_85_ht,1.0,tax_col_85,-1.0,10,Sale,pcg_445713,pcg_445713
+tva_reduite,l10n_fr_pcg_chart_template,"TVA collectée (vente) 5,5%",5.5,0.055,Percent,tax_col_55_ht,1.0,tax_col_55,-1.0,10,Sale,pcg_445713,pcg_445713
+tva_super_reduite,l10n_fr_pcg_chart_template,"TVA collectée (vente) 2,1%",2.1,0.021,Percent,tax_col_21_ht,1.0,tax_col_21,-1.0,10,Sale,pcg_445713,pcg_445713
+tva_0,l10n_fr_pcg_chart_template,TVA 0% autres opérations non imposables (vente),EXO-0,,Percent,tax_misc_0_ht,1.0,,1.0,10,Sale,pcg_44571,pcg_44571
+tva_export_0,l10n_fr_pcg_chart_template,TVA 0% export (vente),EXPORT-0,,Percent,tax_export_0_ht,1.0,,1.0,10,Sale,pcg_44571,pcg_44571
+tva_intra_0,l10n_fr_pcg_chart_template,TVA 0% livraisons intracommunautaires (vente),UE-0,,Percent,tax_intra_0_ht,1.0,,1.0,10,Sale,pcg_445201,pcg_445201
+tva_acq_intermediaire,l10n_fr_pcg_chart_template,"TVA déductible (achat) 10,0%",ACH-10.0,0.1,Percent,tax_acq_100_ht,-1.0,tax_acq_100,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_specifique,l10n_fr_pcg_chart_template,"TVA déductible (achat) 8,5%",ACH-8.5,0.085,Percent,tax_acq_85_ht,-1.0,tax_acq_85,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_reduite,l10n_fr_pcg_chart_template,"TVA déductible (achat) 5,5%",ACH-5.5,0.055,Percent,tax_acq_55_ht,-1.0,tax_acq_55,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_super_reduite,l10n_fr_pcg_chart_template,"TVA déductible (achat) 2,1%",ACH-2.1,0.021,Percent,tax_acq_21_ht,-1.0,tax_acq_21,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_import_0,l10n_fr_pcg_chart_template,TVA 0% import (achat),IMPORT-0,,Percent,tax_import_0_ht,-1.0,,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_normale_TTC,l10n_fr_pcg_chart_template,"TVA déductible (achat) 20,0% TTC",ACH-20.0-TTC,0.2,Percent,tax_acq_200_ht,-1.0,tax_acq_200,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_intermediaire_TTC,l10n_fr_pcg_chart_template,"TVA déductible (achat) 10,0% TTC",ACH-10.0-TTC,0.1,Percent,tax_acq_100_ht,-1.0,tax_acq_100,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_specifique_TTC,l10n_fr_pcg_chart_template,"TVA déductible (achat) 8,5% TTC",ACH-8.5-TTC,0.085,Percent,tax_acq_85_ht,-1.0,tax_acq_85,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_reduite_TTC,l10n_fr_pcg_chart_template,"TVA déductible (achat) 5,5% TTC",ACH-5.5-TTC,0.055,Percent,tax_acq_55_ht,-1.0,tax_acq_55,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_acq_super_reduite_TTC,l10n_fr_pcg_chart_template,"TVA déductible (achat) 2,1% TTC",ACH-2.1-TTC,0.021,Percent,tax_acq_21_ht,-1.0,tax_acq_21,1.0,10,Purchase,pcg_44566,pcg_44566
+tva_imm_normale,l10n_fr_pcg_chart_template,"TVA déd./immobilisation (achat) 20,0%",IMMO-20.0,0.2,Percent,tax_imm_200_ht,-1.0,tax_imm_200,1.0,10,Purchase,pcg_44562,pcg_44562
+tva_imm_intermediaire,l10n_fr_pcg_chart_template,"TVA déd./immobilisation (achat) 10,0%",IMMO-10.0,0.1,Percent,tax_imm_100_ht,-1.0,tax_imm_100,1.0,10,Purchase,pcg_44562,pcg_44562
+tva_imm_specifique,l10n_fr_pcg_chart_template,"TVA déd./immobilisation (achat) 8,5%",IMMO-8.5,0.085,Percent,tax_imm_85_ht,-1.0,tax_imm_85,1.0,10,Purchase,pcg_44562,pcg_44562
+tva_imm_reduite,l10n_fr_pcg_chart_template,"TVA déd./immobilisation (achat) 5,5%",IMMO-5.5,0.055,Percent,tax_imm_55_ht,-1.0,tax_imm_55,1.0,10,Purchase,pcg_44562,pcg_44562
+tva_imm_super_reduite,l10n_fr_pcg_chart_template,"TVA déd./immobilisation (achat) 2,1%",IMMO-2.1,0.021,Percent,tax_imm_21_ht,-1.0,tax_imm_21,1.0,10,Purchase,pcg_44562,pcg_44562
+tva_intra_normale,l10n_fr_pcg_chart_template,"TVA due s/ acq. intracommunautaire (achat) 20,0%",ACH_UE_due-20.0,-0.2,Percent,tax_intra_200_ht,-1.0,tax_intra_200,1.0,10,Purchase,pcg_445201,pcg_445201
+tva_intra_intermediaire,l10n_fr_pcg_chart_template,"TVA due s/ acq. intracommunautaire (achat) 10,0%",ACH_UE_due-10.0,-0.1,Percent,tax_intra_100_ht,-1.0,tax_intra_100,1.0,10,Purchase,pcg_445202,pcg_445202
+tva_intra_specifique,l10n_fr_pcg_chart_template,"TVA due s/ acq. intracommunautaire (achat) 8,5%",ACH_UE_due-8.5,-0.085,Percent,tax_intra_85_ht,-1.0,tax_intra_85,1.0,10,Purchase,pcg_445203,pcg_445203
+tva_intra_reduite,l10n_fr_pcg_chart_template,"TVA due s/ acq. intracommunautaire (achat) 5,5%",ACH_UE_due-5.5,-0.055,Percent,tax_intra_55_ht,-1.0,tax_intra_55,1.0,10,Purchase,pcg_445203,pcg_445203
+tva_intra_super_reduite,l10n_fr_pcg_chart_template,"TVA due s/ acq. intracommunautaire (achat) 2,1%",ACH_UE_due-2.1,-0.021,Percent,tax_intra_21_ht,-1.0,tax_intra_21,1.0,10,Purchase,pcg_445203,pcg_445203
+tva_acq_intra_normale,l10n_fr_pcg_chart_template,"TVA déd. s/ acq. intracommunautaire (achat) 20,0%",ACH_UE_ded.-20.0,0.2,Percent,,1.0,tax_intra_acq_200,1.0,10,Purchase,pcg_445662,pcg_445662
+tva_acq_intra_intermediaire,l10n_fr_pcg_chart_template,"TVA déd. s/ acq. intracommunautaire (achat) 10,0%",ACH_UE_ded.-10.0,0.1,Percent,,1.0,tax_intra_acq_100,1.0,10,Purchase,pcg_445662,pcg_445662
+tva_acq_intra_specifique,l10n_fr_pcg_chart_template,"TVA déd. s/ acq. intracommunautaire (achat) 8,5%",ACH_UE_ded.-8.5,0.085,Percent,,1.0,tax_intra_acq_85,1.0,10,Purchase,pcg_445662,pcg_445662
+tva_acq_intra_reduite,l10n_fr_pcg_chart_template,"TVA déd. s/ acq. intracommunautaire (achat) 5,5%",ACH_UE_ded.-5.5,0.055,Percent,,1.0,tax_intra_acq_55,1.0,10,Purchase,pcg_445662,pcg_445662
+tva_acq_intra_super_reduite,l10n_fr_pcg_chart_template,"TVA déd. s/ acq. intracommunautaire (achat) 2,1%",ACH_UE_ded.-2.1,0.021,Percent,,1.0,tax_intra_acq_21,1.0,10,Purchase,pcg_445662,pcg_445662
+tva_acq_normale,l10n_fr_pcg_chart_template,"TVA déductible (achat) 20,0%",ACH-20.0,0.2,Percent,tax_acq_200_ht,-1.0,tax_acq_200,1.0,1,Purchase,pcg_44566,pcg_44566

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+
+<!-- Chart template -->
+   <record id="l10n_fr_pcg_chart_template" model="account.chart.template">
+      <field name="property_account_expense_categ" ref="pcg_6071"/>
+      <field name="property_account_income_categ" ref="pcg_7071"/>
+  </record>
+
+    </data>
+</openerp>
+
+
